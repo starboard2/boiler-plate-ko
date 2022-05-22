@@ -13,3 +13,5 @@
 # test 6 (add local remotetest)
 
 # test 7 (add local whjo)
+
+# test 8 (add remote remotetest)
