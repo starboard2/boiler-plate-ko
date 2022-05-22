@@ -7,3 +7,5 @@
 # test 3 (add remote whjo)
 
 # test 4 (add remote whjo)
+
+# test 5 (add remote remotetest)
